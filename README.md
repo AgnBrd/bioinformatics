@@ -1,2 +1,2 @@
-##Bioinformatics
-Storage of proteins sequences analises projects.
+## Bioinformatics
+Storage of proteins analises projects
