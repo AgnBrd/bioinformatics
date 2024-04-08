@@ -1,2 +1,2 @@
 ## Bioinformatics
-Storage of proteins analises projects
+Storage of protein analysis projects
